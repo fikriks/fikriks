@@ -1,4 +1,4 @@
-![Fikri Khairul Shaleh](https://cardivo.vercel.app/api?name=Fikri%20Khairul%20Shaleh&description=Hi%20there!%20Fikri%20Khairul%20Shaleh%20in%20here%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/61349610?v=4&backgroundColor=%230C44B6&instagram=fikriks14&linkedin=Fikri%20Khairul%20Shaleh&github=fikriks&pattern=wiggle&colorPattern=%23485E8B&fontColor=%23eaeaea&iconColor=%23eaeaea&opacity=0.5)
+![Fikri Khairul Shaleh](https://cardivo.vercel.app/api?name=Fikri%20Khairul%20Shaleh&description=Hi%20there!%20Fikri%20Khairul%20Shaleh%20is%20here%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/61349610?v=4&backgroundColor=%230C44B6&instagram=fikriks14&linkedin=Fikri%20Khairul%20Shaleh&github=fikriks&pattern=wiggle&colorPattern=%23485E8B&fontColor=%23eaeaea&iconColor=%23eaeaea&opacity=0.5)
 
 Halo Semuanya, Saya Fikri Khairul Shaleh! :wave:
 
